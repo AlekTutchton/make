@@ -1,2 +1,2 @@
 # make
-Program the simulate the 'make'  UNIX command
+Program simulates the 'make' UNIX command.
