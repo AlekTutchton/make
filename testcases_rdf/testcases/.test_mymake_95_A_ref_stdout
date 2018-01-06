@@ -1,0 +1,14 @@
+G
+H
+F
+E
+C
+  touch C
+  echo Hi There
+  run stuff
+B
+  touch B
+  echo OK
+D
+A
+  touch A

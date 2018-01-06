@@ -1,0 +1,2 @@
+aosproj1_1
+  mpicc -mpe=mpilog aosproj1_1.c -o aosproj1_1

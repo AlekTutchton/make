@@ -1,0 +1,10 @@
+log.c
+log.h
+log.o
+  gcc log.c -c
+doop.c
+file.c
+file.o
+  gcc file.c -c
+doop.out
+  gcc log.o doop.c file.o -o doop.out

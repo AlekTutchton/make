@@ -1,0 +1,5 @@
+ids.cpp
+ids.o
+  gcc -c ids.c -o ids.o
+ids
+  gcc ids.o -o ids

@@ -1,0 +1,8 @@
+cs352.c
+cs352.h
+cs352.o
+  gcc -Wall -c $< -o $@
+libcs352.a
+  ar rsc $@ $<
+test_cs352_x
+all

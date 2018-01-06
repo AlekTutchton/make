@@ -1,0 +1,4 @@
+graphTools.c
+graphTools.h
+graphTools.o
+  gcc -Wall -c graphTools.c

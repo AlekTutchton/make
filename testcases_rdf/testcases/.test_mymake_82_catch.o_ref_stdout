@@ -1,0 +1,8 @@
+log.c
+log.h
+log.o
+  gcc log.c -c
+catch.c
+catch.h
+catch.o
+  gcc log.o catch.c -c

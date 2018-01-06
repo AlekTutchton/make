@@ -1,0 +1,9 @@
+D
+C
+  touch C
+  echo  C
+B
+  echo B
+  echo A
+All
+  touch A

@@ -1,0 +1,9 @@
+mymake.c
+graphTools.h
+mymake.o
+  gcc -Wall -c mymake.c
+graphTools.c
+graphTools.o
+  gcc -Wall -c graphTools.c
+mymake
+  gcc mymake.o graphTools.o -o mymake

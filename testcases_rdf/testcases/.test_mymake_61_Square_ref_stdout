@@ -1,0 +1,8 @@
+Rectangle
+  echo echo
+Circle
+  echo this
+Triangle
+  echo Trapezoid
+Square
+  echo Regtangle

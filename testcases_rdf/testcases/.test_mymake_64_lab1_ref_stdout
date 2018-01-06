@@ -1,0 +1,9 @@
+testclockType.c
+clockType.h
+testclockType.o
+  g++ -c testclockType.c -o testclockType.o
+clockTypeImp.c
+clockTypeImp.o
+  g++ -c clockTypeImp.c -o clockTypeImp.o
+lab1
+  g++ testclockType.o clockTypeImp.o -o lab1

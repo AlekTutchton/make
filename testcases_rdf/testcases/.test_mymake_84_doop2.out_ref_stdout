@@ -1,0 +1,14 @@
+doop2.c
+file.c
+file.o
+  gcc file.c -c
+log.c
+log.h
+log.o
+  gcc log.c -c
+catch.c
+catch.h
+catch.o
+  gcc log.o catch.c -c
+doop2.out
+  gcc file.o doop2.c catch.o -o doop2.out
