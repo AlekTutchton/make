@@ -1,5 +1,5 @@
 # myMake
-Program simulates the 'make' UNIX command, by calling myMake and then the makefile in the command line
+Program simulates the 'make' UNIX command, by calling mymake and then the makefile in the command line
 
 **Usage**
 ```bash
