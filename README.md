@@ -1,6 +1,11 @@
 # myMake
 Program simulates the 'make' UNIX command, by calling myMake and then the makefile in the command line
 
+**Usage**
+```bash
+   mymake makefile target
+```
+
 **Example makefile**
 ```bash
 spellcheck.o : utils.h spellcheck.h spellcheck.c
